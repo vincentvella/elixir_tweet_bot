@@ -1,0 +1,4 @@
+Line 1
+Line 2
+A long string, this string is going to be longer than 140 characters. This is to test that the tweet filter function works. If it does, this string will not appear in the results.
+A Third Line
